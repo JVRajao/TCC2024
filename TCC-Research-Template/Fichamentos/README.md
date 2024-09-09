@@ -1,10 +1,11 @@
 # Fichamentos
 
-`Este diretório mantém os fichamentos de artigos produzidos pelos alunos durante a execução do trabalho de  conclusão de curso. Nesta página inicial, o aluno deve apresentar a lista de artigos relacionados ao trabalho, incluindo o link dos fichamentos produzidos.`
+1. [Fichamento-ListaBase4](https://github.com/JVRajao/TCC2024/blob/main/TCC-Research-Template/Fichamentos/Fichamento-ListaBase4.md)
+2. [Fichamento-ListaBase48](https://github.com/JVRajao/TCC2024/blob/main/TCC-Research-Template/Fichamentos/Fichamento-ListaBase48.md)
+3. [Fichamento-VDT](https://github.com/JVRajao/TCC2024/blob/main/TCC-Research-Template/Fichamentos/Fichamento-VDT.md)
+4. [FichamentoEvome](https://github.com/JVRajao/TCC2024/blob/main/TCC-Research-Template/Fichamentos/FichamentoEvome.md)
+5. [FichamentoGrimoireLab](https://github.com/JVRajao/TCC2024/blob/main/TCC-Research-Template/Fichamentos/FichamentoGrimoireLab.md)
+6. [FichamentoSpaghetti](https://github.com/JVRajao/TCC2024/blob/main/TCC-Research-Template/Fichamentos/FichamentoSpaghetti.md)
 
-1. [Fichamento-ListaBase4](https://github.com/JVRajao/TCC/blob/main/TCC-Research-Template/Fichamentos/Fichamento-ListaBase4.md)
-2. [Fichamento-ListaBase48]()
-3. [Fichamento-ListaBase48]()
 
 
-...
